@@ -1,0 +1,66 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f9f9;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    display: flex;
+    align-items: center;
+    background-color: #d6eaf8;
+    padding: 20px;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+main section {
+    max-width: 800px;
+    margin: auto;
+}
+
+article {
+    border: 1px solid #ccc;
+    margin: 15px 0;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Aside area */
+aside {
+    background-color: #f4d03f;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #2d3e50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
